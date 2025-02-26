@@ -1,5 +1,7 @@
 .streamlit/secrets.toml
 GNPS-Sample.mgf
+indexed_part.mzML
+target_scan.mzML
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
